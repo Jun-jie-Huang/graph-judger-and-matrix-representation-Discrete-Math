@@ -180,7 +180,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", u"图的矩阵表示器和特殊图的判断器————黄俊杰"))
+        MainWindow.setWindowTitle(_translate("MainWindow", u"图的矩阵表示器和特殊图的判断器"))
         self.edge_input.setHtml(_translate("MainWindow", "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n"
 "<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\n"
 "p, li { white-space: pre-wrap; }\n"
@@ -203,8 +203,7 @@ class Ui_MainWindow(object):
         self.label_7.setText(_translate("MainWindow", "Setting:"))
         self.label_8.setText(_translate("MainWindow", "特殊图的判断"))
         self.pushButton_judge.setText(_translate("MainWindow", "开始判断"))
-        self.label_9.setText(_translate("MainWindow", "Copyright:黄俊杰 16031155"))
-        self.label_10.setText(_translate("MainWindow", "BUAA 离散数学大作业 郑征老师"))
+        self.label_9.setText(_translate("MainWindow", "蓬头科学怪人1603"))
         self.pushButton.setText(_translate("MainWindow", "EXIT"))
         self.pushButton_default_bipartite.setText(_translate("MainWindow", "载入默认二部图"))
         self.pushButton_default_euler.setText(_translate("MainWindow", "载入默认欧拉图"))
