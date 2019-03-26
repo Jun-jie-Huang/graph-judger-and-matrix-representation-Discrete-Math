@@ -11,6 +11,8 @@ This is a discrete math project to judge special graph and give matrix represent
 Then it comes out the GUI.  
 The instructions are shown in the figure below.
 
+![](./fig.jpg)
+
 ## Functions
 For matrix representation of special graph, I implement code to show:  
     
